@@ -9,6 +9,6 @@ spark = (
 
 print('===== This is a test =====')
 
-print(os.listdir('/mnt/spark/work'))
+print(os.listdir('/mnt/secrets'))
 
 spark.stop()
